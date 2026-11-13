@@ -1,0 +1,17 @@
+# Xcode / build
+**/build/
+**/DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+.env.*
+*.pem
+*.p12
+Credentials.plist
